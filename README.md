@@ -1,7 +1,8 @@
 # TxGhost_pub
 
 >[!NOTE]
->TxGhost es 100% modular: cada parte monitor, oráculo, simulador de gas puede funcionar y actualizarse de forma independiente.
+>TxGhost es 100% modular: cada parte monitor, oráculo, simulador de gas puede funcionar y actualizarse de forma independiente.  
+>📺[Video](https://free2z.cash/uploadz/public/carover0/ghost.mp4)
 
 TxGhost es un bot modular para monitoreo en tiempo real y oráculos en TRON, que ofrece características como notificaciones de transacciones y simulación de costos de gas.
 
@@ -91,6 +92,38 @@ Los costos varían según congestión; el simulador incluye protección ante pre
 >Cada fantasma tiene un color alusivo a una cripto distinta.
 >TRON, PIVX, VERTCOIN, ZCASH, NEAR, POLKADOT, RAVENCOIN
 
+![](https://free2z.cash/uploadz/public/carover0/fantasma7.png) 
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma6.png)
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma2.png)
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma1.png)
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma3.png)
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma4.png)
+
+![](https://free2z.cash/uploadz/public/carover0/fantasma5.png)
+
 ---
 
-📺 https://free2z.cash/uploadz/public/carover0/ghost.mp4
+## **Imagenes creadas por la comunidad de BRST**
+
+### **Para los reportes:**
+
+![](https://free2z.cash/uploadz/public/carover0/day_report4.png)
+![](https://free2z.cash/uploadz/public/carover0/day_report3.png)
+![](https://free2z.cash/uploadz/public/carover0/day_report2.png)
+![](https://free2z.cash/uploadz/public/carover0/day_report1.png)
+
+---
+
+### **Para las compras:**
+
+![](https://free2z.cash/uploadz/public/carover0/im_r5.png)
+![](https://free2z.cash/uploadz/public/carover0/im_r4.png)
+![](https://free2z.cash/uploadz/public/carover0/im_r3.png)
+![](https://free2z.cash/uploadz/public/carover0/im_r2.png)
+![](https://free2z.cash/uploadz/public/carover0/im_r1.png)
+
